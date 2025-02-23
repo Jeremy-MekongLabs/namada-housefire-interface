@@ -2,4 +2,4 @@
 indexer_url = "https://indexer.housefire.tududes.com"
 rpc_url = "https://rpc.housefire.tududes.com"
 masp_indexer_url = "https://masp.housefire.tududes.com"
-#localnet_enabled = false
+localnet_enabled = false
